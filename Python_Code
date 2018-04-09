@@ -1,0 +1,4 @@
+d = 12
+r = d/2
+pi = 3.1415926535897931
+print ('The Volume of the Cube is: ' + str(4.0/3.0 * pi * r ** 3))
